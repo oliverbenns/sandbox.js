@@ -1,6 +1,6 @@
 # Sandbox.js
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dolores suscipit, ex a ipsa qui eveniet non beatae doloremque nostrum, modi eaque, consequatur facilis tempore magni itaque. Facere, similique, modi.
+A simple front end Javascript sandbox to start testing and prototyping ideas. With ES6, hot reloading, eslinting and all that good stuff.
 
 ## To run
 

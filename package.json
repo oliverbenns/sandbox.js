@@ -1,7 +1,7 @@
 {
   "name": "sandbox.js",
   "version": "0.0.1",
-  "description": "",
+  "description": "A simple front end Javascript sandbox to start testing and prototyping ideas. With ES6, hot reloading, eslinting and all that good stuff.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
